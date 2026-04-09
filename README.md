@@ -1,100 +1,114 @@
+<!-- Header -->
 <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Backend+Engineer+%E2%80%A2+Fintech+%E2%80%A2+Trading+Systems" alt="Typing SVG" /></a>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Senior+Software+Engineer;Building+Fintech+%26+Trading+Systems" alt="Typing SVG" /></a>
+<br/>
+<sub>TypeScript &bull; Go &bull; Node.js &bull; NestJS &bull; PostgreSQL &bull; Kafka &bull; gRPC &bull; K8s</sub>
+</div>
 
 <br/>
 
-**Backend engineer obsessed with performance and reliability.**<br/>
-Built a sub-100ms matching engine in Go. Achieved 99.95% ledger accuracy in production payments.<br/>
-Now contributing to open source to give back and grow.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilchowdhury27)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikhilChowdhury27)
-
-</div>
+```typescript
+const nikhil = {
+  location: "India",
+  role: "Senior Software Engineer",
+  focus: ["backend systems", "fintech", "trading infrastructure"],
+  highlights: {
+    matchingEngine: "sub-100ms order matching in Go",
+    payments: "99.95% ledger accuracy across 100K+ transactions",
+    crypto: "Polygon L2, Binance & Kraken API integrations",
+    architecture: "multi-tenant SaaS, event sourcing, CQRS",
+  },
+  currentlyDoing: "Contributing to open source → targeting 25+ merged PRs",
+};
+```
 
 ---
 
-### What I Work With
+### Open Source
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/karakeep-app/karakeep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karakeep-app&repo=karakeep&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" /></a>
+</td>
+<td width="50%">
+<a href="https://github.com/kodustech/kodus-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kodustech&repo=kodus-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" /></a>
+</td>
+</tr>
+</table>
+
+| PR | Repo | What | Status |
+|:---|:-----|:-----|:------:|
+| [#2659](https://github.com/karakeep-app/karakeep/pull/2659) | karakeep `24.5K★` | Configurable monolith timeout & CLI args | **Merged** |
+| [#2678](https://github.com/karakeep-app/karakeep/pull/2678) | karakeep `24.5K★` | Deduplicate crawl jobs via idempotency key | Under review |
+| [#874](https://github.com/kodustech/kodus-ai/pull/874) | kodus-ai `1K★` | PostgreSQL connection URI support | Under review |
+| [#875](https://github.com/kodustech/kodus-ai/pull/875) | kodus-ai `1K★` | MongoDB connection URI support | Under review |
+
+---
+
+### Stack
 
 <div align="center">
 
-**Core** &nbsp;&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-**Data** &nbsp;&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-
-**Infra** &nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-
-**Also** &nbsp;&nbsp;
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+[![Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,go,postgres,redis,mongodb,kafka,docker,kubernetes,gcp,terraform,graphql,react&perline=7&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
+<details>
+<summary><b>Detailed breakdown</b></summary>
+<br/>
 
-### Open Source Contributions
+| | Technologies |
+|:--|:------------|
+| **Languages** | TypeScript, Go, JavaScript |
+| **Backend** | NestJS, Express, tRPC, gRPC, GraphQL |
+| **Data** | PostgreSQL, Redis, MongoDB, Kafka, Elasticsearch |
+| **ORM/Query** | Prisma, TypeORM, Drizzle |
+| **Infra** | Docker, Kubernetes, GCP, Terraform |
+| **Patterns** | Event Sourcing, CQRS, Microservices, DDD |
+| **Fintech** | Payment reconciliation, KYC/AML, SEC compliance, omnibus wallets |
+| **Crypto** | Polygon L2, Binance/Kraken APIs, order matching engines |
 
-| Repo | What I Did | Stars |
-|:-----|:-----------|------:|
-| [**karakeep**](https://github.com/karakeep-app/karakeep) | Configurable monolith timeout & args ([#2659](https://github.com/karakeep-app/karakeep/pull/2659) merged), crawl job deduplication ([#2678](https://github.com/karakeep-app/karakeep/pull/2678)) | 24.5K |
-| [**kodus-ai**](https://github.com/kodustech/kodus-ai) | PostgreSQL URI support ([#874](https://github.com/kodustech/kodus-ai/pull/874)), MongoDB URI support ([#875](https://github.com/kodustech/kodus-ai/pull/875)) | 1K |
-
-<sub>*Building toward 25+ merged PRs. Updated as contributions land.*</sub>
+</details>
 
 ---
 
 ### Domain Expertise
 
 ```
-Fintech & Trading         Payments & Compliance       Architecture
----------------------     ----------------------      ----------------------
-Sub-100ms matching        99.95% ledger accuracy      Multi-tenant white-label
-engine in Go              SOC 2, KYC/AML, SEC         Event-driven microservices
-Polygon L2, Binance &     Payment reconciliation      CQRS + Event Sourcing
-Kraken API integrations   Omnibus wallet systems      Kafka, gRPC, K8s
+Trading                   Payments                  Architecture
+-----------------------   -----------------------   -----------------------
+Sub-100ms matching        99.95% ledger accuracy    Multi-tenant white-label
+engine (Go)               SOC 2 / KYC / AML / SEC   Event-driven microservices
+Polygon L2 integration    Payment reconciliation    CQRS + Event Sourcing
+Binance & Kraken APIs     Omnibus wallet systems    Kafka → gRPC → K8s
 ```
 
 ---
 
-### Stats
-
+<details>
+<summary><b>GitHub Stats</b></summary>
+<br/>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NikhilChowdhury27&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NikhilChowdhury27&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NikhilChowdhury27&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="160"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=NikhilChowdhury27&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="160"/>
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilChowdhury27&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%"/>
 
 </div>
+</details>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=NikhilChowdhury27&style=flat-square&color=58a6ff&label=Profile+Views" />
-
-*"Ship fast, measure everything, fix what breaks."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilchowdhury27)
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=NikhilChowdhury27&style=flat-square&color=58a6ff&label=views" />
 
 </div>
